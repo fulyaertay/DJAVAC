@@ -4,10 +4,10 @@
 
 
 ## Visulation of the App
-```bash
+
 - ![image](./DJAVAC.png)
 - ![image](./DJAVAC2.png)
-```
+
 
 ## Description
 ```bash
