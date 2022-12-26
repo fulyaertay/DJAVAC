@@ -4,8 +4,10 @@
 
 
 ## Visulation of the App
+## DJAVAC Server GUI
 
 - ![image](./DJAVAC.png)
+## DJAVAC Client GUI
 - ![image](./DJAVAC2.png)
 
 
